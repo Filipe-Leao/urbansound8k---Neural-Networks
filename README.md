@@ -546,7 +546,7 @@ Adversarial Machine Learning
 
 # Authors
 
-**Miguel Lopes**    **Felipe Neto**    **Leonor Arreiol**
+**Miguel Lopes**  |  **Felipe Neto**  |  **Leonor Arreiol**
 
 
 # Machine Learning II — Deep Learning Project
